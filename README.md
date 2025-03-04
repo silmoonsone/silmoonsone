@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**silmoonsone/silmoonsone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🖥️ 18 years of experience with C#, specializing in ASP.NET Core, server-side development, and UI development with MAUI, WinForms, and WinUI 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Passionate about FinTech and trading software development
+
+- 🚀 An active open-source software developer!
+
+## Tech Stack
+
+- **Languages:** C#
+- **Frameworks:** .NET (ASP.NET Core, MAUI, WinForms, WinUI 3)
+- **Databases:** MongoDB, PostgreSQL, SQL Server
+- **Tools:** Web Deploy, Syncthing, Git, dotnet
+
+Thanks for visiting! 🚀
